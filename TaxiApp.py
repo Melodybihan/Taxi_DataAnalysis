@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 12 08:30:32 2020
-
-@author: Ryan
-"""
-
-
 import streamlit as st
 import pandas as pd
 #import pickle
